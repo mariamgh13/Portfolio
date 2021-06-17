@@ -25,7 +25,7 @@ function About() {
             <img className="interetpic" src="./logos/foot.png"></img>
             <img className="interetpic" src="./logos/livre.png"></img>
             <img className="interetpic" src="./logos/danse.png"></img>
-            <img className="interetpic" src="/logos/dessin.png"></img>
+            <img className="interetpic" src="./logos/dessin.png"></img>
            </div>
           </Col>
           <Col>

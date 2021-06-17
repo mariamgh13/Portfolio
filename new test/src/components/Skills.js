@@ -29,7 +29,7 @@ function Skills() {
                  <img className="interetpic" src="./logos/js.png"></img>
                  </a>
                  <a href="https://fr.reactjs.org/" target="_blank">
-                 <img className="interetpic" src="/logos/react.png"></img>
+                 <img className="interetpic" src="./logos/react.png"></img>
                  </a>
                 <br></br>
                 <h3 className="comp">Database</h3>
