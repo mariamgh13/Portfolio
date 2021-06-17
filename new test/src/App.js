@@ -49,7 +49,6 @@ function App() {
               <Contact />
             </Route>
           </Switch>
-          <Contact />
         </Router>
       </div>
     </HashRouter>
